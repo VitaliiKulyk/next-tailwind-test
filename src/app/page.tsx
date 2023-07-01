@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between ">
       {/* header */}
-      {/* <Header /> */}
+      <Header />
       <div className="container mx-auto flex flex-col justify-between px-4 pb-4 my-24 sm:max-w-screen-sm lg:max-w-screen-xl">
         {/* content */}
         <p className="text-7xl font-bold uppercase">lorem ipsum</p>
